@@ -23,6 +23,7 @@
 
 html[lang=en] {
  color: red;
+ font-size: 3rem;
 }
 
 .entypo-facebook-circled:before{content:"\f30d"}

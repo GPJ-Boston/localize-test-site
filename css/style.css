@@ -19,10 +19,14 @@
     font-family: 'entypo', sans-serif;
 }
 
+
+
 /*  Localize CSS test */
 p:lang(pt) {
   color:  red;
 }
+
+
 
 .entypo-facebook-circled:before{content:"\f30d"}
 .entypo-inbox:before{content:"\e777"}

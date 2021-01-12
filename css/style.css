@@ -19,15 +19,9 @@
     font-family: 'entypo', sans-serif;
 }
 
-
-
-html[lang=en] {
- color: red;
- font-size: 3rem;
-}
-
-p:lang(en) {
-  background: yellow;
+/*  Localize CSS test */
+p:lang(pt) {
+  color:  red;
 }
 
 .entypo-facebook-circled:before{content:"\f30d"}

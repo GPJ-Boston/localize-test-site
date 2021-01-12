@@ -19,6 +19,12 @@
     font-family: 'entypo', sans-serif;
 }
 
+
+
+html[lang=en] {
+ color: red;
+}
+
 .entypo-facebook-circled:before{content:"\f30d"}
 .entypo-inbox:before{content:"\e777"}
 .entypo-linkedin-circled:before{content:"\f319"}

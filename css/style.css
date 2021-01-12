@@ -26,6 +26,10 @@ html[lang=en] {
  font-size: 3rem;
 }
 
+p:lang(en) {
+  background: yellow;
+}
+
 .entypo-facebook-circled:before{content:"\f30d"}
 .entypo-inbox:before{content:"\e777"}
 .entypo-linkedin-circled:before{content:"\f319"}

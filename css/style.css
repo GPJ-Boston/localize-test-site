@@ -22,7 +22,7 @@
 
 
 /*  Localize CSS test */
-p, span:lang(pt) {
+p:lang(pt), span:lang(pt), h1:lang(pt), button:lang(pt), #about h4:lang(pt), #about p:lang(pt), #steps h2:lang(pt), #steps p:lang(pt), h3:lang(pt) {
   color:  red;
 }
 

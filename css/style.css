@@ -22,7 +22,7 @@
 
 
 /*  Localize CSS test */
-p:lang(pt) {
+p, span:lang(pt) {
   color:  red;
 }
 
